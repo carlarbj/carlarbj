@@ -3,8 +3,8 @@
 ## I am Carla and welcome to my github profile 🚀
 <div>
 <a href="https://github.com/carlarbj">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlarbj&layout=compact&langs_count=7&theme=dracula"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlarbj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlarbj&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlarbj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 </div>
 <br><br/> 
@@ -33,7 +33,7 @@ Also, I loved studying statistics, which some years later brought me to the Data
 <div>
 <a href="https://www.linkedin.com/in/carla-regina-b-jagosich/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://public.tableau.com/app/profile/carla.regina7813" target="_blank"><img src="https://img.shields.io/badge/Tableau-F8F8FF?style=for-the-badge&logo=tableau&logoColor=blue" target="_blank"></a>
-<a href="https://medium.com/@carla.reginabj" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" target="_blank"></a>
+<a href="https://medium.com/@carla.reginabj" target="_blank"><img src="https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=Medium&logoColor=black" target="_blank"></a>
 <a href="https://www.hackerrank.com/carla_reginabj" target="_blank"><img src="https://img.shields.io/badge/HackerHank-32CD32?style=for-the-badge&logo=hackerhank&logoColor=blue" target="_blank"></a>
 </div>
 
