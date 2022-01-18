@@ -3,18 +3,21 @@
 ## I am Carla and welcome to my github profile 🚀
 <div>
 <a href="https://github.com/carlarbj">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlarbj&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlarbj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlarbj&layout=compact&langs_count=7&theme=aura_dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlarbj&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
 </a>
 </div>
 <br><br/> 
 
 ### Languages and tools:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60"/>
 <br/><br/>
+
+
 ### About me 🙋🏻‍♀️
 
 I am graduated in Engineering and I am an airport specialist. 
@@ -37,6 +40,9 @@ Also, I loved studying statistics, which some years later brought me to the Data
 <a href="https://www.hackerrank.com/carla_reginabj" target="_blank"><img src="https://img.shields.io/badge/HackerHank-32CD32?style=for-the-badge&logo=hackerhank&logoColor=blue" target="_blank"></a>
 </div>
 
-<br/><br/>
+<br/><br/>]
+
+
+
 
 
