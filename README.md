@@ -27,8 +27,8 @@ Also, I loved studying statistics, which some years later brought me to the Data
 <br/>
 
 - 📊 I’m currently working on a project to predict the price of a set of diamonds and a kaggle competition involving forecasting energy consumption.<br/>
-- 📚 I’m currently learning AWS.<br/>
-- 👨🏼‍🤝‍👨🏻 I’m looking to collaborate on any project involving transportation issues, environment or science (from astronomy to geology 🌋)<br/>
+- 📚 I’m also learning AWS and improving my machine learning skills.<br/>
+- 👨🏼‍🤝‍👨🏻 I’m willing to collaborate on any project involving transportation issues, environment or science (from astronomy to geology 🌋)<br/>
 - 🏁 I’m looking for help with practing python for machine learning<br/>
 - 🪐 **Fun fact**: I love dancing, science, math, puzzles and assembling plastic airplanes and Star Wars ships. 🛸<br/>
 - 📞 Where you can find me: <br/>
